@@ -1,4 +1,4 @@
-CREATE TABLE tb_clientes
+CREATE TABLE tb_clientes2
 (
 CPF VARCHAR2(11),
 NOME VARCHAR2(100),
