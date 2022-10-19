@@ -14,3 +14,5 @@ VALUES
 ('1004327', 'Videira do campo - 1,5 Litros - Melância', 'PET', '1,5 Litros', 'Melância',19.51);
 
 SELECT * FROM tb_produtos;
+
+
